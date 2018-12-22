@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://AllynYonge.github.io/"/>
-  <updated>2018-12-22T00:50:50.030Z</updated>
+  <updated>2018-12-22T01:04:05.689Z</updated>
   <id>https://AllynYonge.github.io/</id>
   
   <author>
@@ -18,8 +18,31 @@
   
   <entry>
     <title>JavaScript 对象</title>
-    <link href="https://AllynYonge.github.io/post/undefined.html"/>
-    <id>https://AllynYonge.github.io/post/undefined.html</id>
+    <link href="https://AllynYonge.github.io/post/52427.html"/>
+    <id>https://AllynYonge.github.io/post/52427.html</id>
+    <published>2018-10-15T05:25:24.000Z</published>
+    <updated>2018-12-22T01:04:05.689Z</updated>
+    
+    <content type="html"><![CDATA[<p>文章以一句 ‘回首往事，不因虚度年华而悔恨，也不因碌碌无为而羞耻’ 开头送给自己也送给各位…</p><h3 id="对象的使用和属性"><a href="#对象的使用和属性" class="headerlink" title="对象的使用和属性"></a>对象的使用和属性</h3><p>javascript中所有的变量都可以当成对象来使用，但是有两个除外，null 和 undefined。<br><a id="more"></a><br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="literal">false</span>.toString(); <span class="comment">// 'false'</span></span><br><span class="line">[<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>].toString(); <span class="comment">// '1,2,3'</span></span><br><span class="line"><span class="string">'123'</span>.length; <span class="comment">// 3</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">Foo</span>(<span class="params"></span>)</span>&#123;&#125;</span><br><span class="line">Foo.bar = <span class="number">1</span>;</span><br><span class="line">Foo.bar; <span class="comment">// 1</span></span><br></pre></td></tr></table></figure></p><p>大家常常误解数字的字面值（literal）不能当做是对象使用。这是因为 JavaScript 解析器的一个错误， 它试图将点操作符解析为浮点数字面值的一部分。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;文章以一句 ‘回首往事，不因虚度年华而悔恨，也不因碌碌无为而羞耻’ 开头送给自己也送给各位…&lt;/p&gt;
+&lt;h3 id=&quot;对象的使用和属性&quot;&gt;&lt;a href=&quot;#对象的使用和属性&quot; class=&quot;headerlink&quot; title=&quot;对象的使用和属性&quot;&gt;&lt;/a&gt;对象的使用和属性&lt;/h3&gt;&lt;p&gt;javascript中所有的变量都可以当成对象来使用，但是有两个除外，null 和 undefined。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="web前端" scheme="https://AllynYonge.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="https://AllynYonge.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript 对象</title>
+    <link href="https://AllynYonge.github.io/post/52428.html"/>
+    <id>https://AllynYonge.github.io/post/52428.html</id>
     <published>2018-10-15T05:25:24.000Z</published>
     <updated>2018-12-22T00:50:50.030Z</updated>
     
@@ -41,8 +64,8 @@
   
   <entry>
     <title>JavaScript 对象</title>
-    <link href="https://AllynYonge.github.io/post/undefined.html"/>
-    <id>https://AllynYonge.github.io/post/undefined.html</id>
+    <link href="https://AllynYonge.github.io/post/52429.html"/>
+    <id>https://AllynYonge.github.io/post/52429.html</id>
     <published>2018-10-15T05:25:24.000Z</published>
     <updated>2018-10-15T15:46:13.341Z</updated>
     
@@ -64,8 +87,8 @@
   
   <entry>
     <title>AMD，CMD 规范详解</title>
-    <link href="https://AllynYonge.github.io/post/undefined.html"/>
-    <id>https://AllynYonge.github.io/post/undefined.html</id>
+    <link href="https://AllynYonge.github.io/post/45293.html"/>
+    <id>https://AllynYonge.github.io/post/45293.html</id>
     <published>2017-03-19T19:25:24.000Z</published>
     <updated>2018-10-16T03:01:23.499Z</updated>
     
